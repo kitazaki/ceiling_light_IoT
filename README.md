@@ -1,8 +1,9 @@
 # ceiling_light_IoT
 
-ライティングバーの電源がONになったらM5ATOM LiteからAmbientへデータを送る(10秒毎)サンプルです。
+ライティングバーの電源がONになったらM5ATOM LiteからAmbientへ10秒毎にデータを送るサンプルです。
 
-![sample](https://raw.githubusercontent.com/kitazaki/ceiling_light_IoT/main/test01.jpg)
+![sample01](https://raw.githubusercontent.com/kitazaki/ceiling_light_IoT/main/test01.jpg)
+![sample02](https://raw.githubusercontent.com/kitazaki/ceiling_light_IoT/main/test02.jpg)
 
 ## BOM
 |項目|個数|入手先（日本国内）||
