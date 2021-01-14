@@ -44,7 +44,7 @@ void loop() {
     Serial.print("\nWiFi connected. \nIP address: ");
     Serial.println(WiFi.localIP());
 
-    // 温度、湿度、照度、電源容量の値をAmbientに送信する
+    // ONフラグとカウンタ値をAmbientに送信する
     seq++;  // カウンタを更新
     Serial.print("Seq: ");
     Serial.println(seq);
